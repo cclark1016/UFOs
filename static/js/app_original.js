@@ -1053,3 +1053,7 @@ buildTable(tableData);
 
 
 
+//////    for (var i = 0; i < filters.length; i++){
+ // if (filters[i]){filteredData = filteredData.filter(row => row.filterId === filters[i]);
+ // };
+//}
